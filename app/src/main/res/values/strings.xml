@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LifeHack Test Task</string>
+    <string name="base_url">http://megakohz.bget.ru/test_task/</string>
+    <string name="phone">Телефон: </string>
+    <string name="site">Сайт: </string>
+    <string name="not_connection_error_message">Нет соединения с интернетом</string>
+    <string name="place_not_found_message">Нет данных о местоположении</string>
+    <string name="contact_not_found_message">Не указан</string>
+    <string name="place">Где нас найти?</string>
+    <string name="contacts">Контакты</string>
+</resources>
